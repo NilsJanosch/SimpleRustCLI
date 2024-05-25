@@ -1,0 +1,8 @@
+[package]
+name = "SimpleRustCLI"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.0.0"
+clearscreen = "3.0.0"
